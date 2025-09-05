@@ -1,1 +1,3 @@
-# SQL
+SELECT 31;
+SELECT 31+12;
+SELECT (25+5)/3 + 4*4;
